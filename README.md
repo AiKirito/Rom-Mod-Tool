@@ -5,7 +5,7 @@
  
 Deodex 作为单独一项功能，如果你想修改 dex，可能需要 deodex
  
-在 wsl 中使用，或者是其它 linux 内核的系统，记住给予权限 chmod 777 -R ./NiceRom.sh
+在 wsl 中使用，或者是其它 linux 内核的系统，记住给予权限 chmod 777 -R ./*
 
 需要安装 Java 以使用部分功能
  
