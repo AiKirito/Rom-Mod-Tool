@@ -259,7 +259,7 @@ remove_all() {
 }
 
 remove_files() {
-    for file in "$1"; do
+    for file in $@; do
         while IFS= read -r -d '' dir
         do
             echo "$dir"
